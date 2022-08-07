@@ -1,0 +1,7 @@
+requests == 2.27.1
+python-dotenv == 0.20.0
+gtts == 2.27.1
+pydub == 0.25.1
+speech_recognition == 3.8.1
+pipwin == 0.5.2
+pyaudio == 0.2.11
